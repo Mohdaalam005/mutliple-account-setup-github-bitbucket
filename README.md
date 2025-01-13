@@ -1,4 +1,6 @@
 **mutliple account setup**
 
+## Create a New SSH Key
+
 ```bash
-git add .
+ssh-keygen -t rsa -b 4096 -C "your-email-address"
