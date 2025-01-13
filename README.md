@@ -6,4 +6,4 @@ To generate an SSH key, use the following command:
 ssh-keygen -t rsa -b 4096 -C "your-email-address"
 ---
 
-To 
+To generate an SSH key, use the following command:
