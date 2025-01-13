@@ -1,1 +1,4 @@
-# helping-hands
+**mutliple account setup**
+
+```bash
+git add .
